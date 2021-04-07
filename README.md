@@ -60,15 +60,16 @@ Tampilan pada browser
 ![ScreenshotTugas](https://github.com/heynis10/Lab2Web/blob/master/ss12.png)
 ![ScreenshotTugas](https://github.com/heynis10/Lab2Web/blob/master/ss13.png)
 4. Aturan prioritas CSS yaitu : 
-	- CSS yang dimasukkan dengan metode Inline Style yaitu style yang langsung melekat pada tag dalam tag <body> akan diprioritaskan terlebih dahulu
-	- CSS yang dimasukkan denan metode Internal Style Sheet yaitu style yang dideklarasikan pada awal halaman di antara tag <style> dan </style> akan diprioritaskan selanjutnya
-	- CSS yang dimasukkan menggunakan metode External Style Sheet ,yaitu style yang dideklarasikan pada sebuah file terpisah yang berekstensi .css akan diprioritaskan terakhir.
-Contoh :
-
+- CSS yang dimasukkan dengan metode Inline Style yaitu style yang langsung melekat pada tag dalam tag <body> akan diprioritaskan terlebih dahulu
+- CSS yang dimasukkan denan metode Internal Style Sheet yaitu style yang dideklarasikan pada awal halaman di antara tag <style> dan </style> akan diprioritaskan selanjutnya
+- CSS yang dimasukkan menggunakan metode External Style Sheet ,yaitu style yang dideklarasikan pada sebuah file terpisah yang berekstensi .css akan diprioritaskan terakhir.
+Contoh
 	Ketikkan script berikut dan simpan dengan nama prioritas.css 
-```
+
+```CSS
 h1 {color: blue;}
 ```
+
 	Lalu buatlah file HTML nya dan simpan dengan nama cssprioritas.html
 ```CSS
 <!DOCTYPE HTML>
