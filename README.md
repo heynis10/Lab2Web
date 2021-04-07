@@ -88,4 +88,4 @@ Lalu buatlah file HTML nya dan simpan dengan nama cssprioritas.html
 </body>
 </html>
 ```
-	Pada contoh di atas,tag h1 berusaha untuk diubah warnanya dengan menggunakan CSS dari file prioritas.css yang ingin mengganti warna menjadi biru.Kedua dengan menggunakan kode CSS yang ada diantara tag style dan /style dengan warna merah.Ketika ditampilkan di browser,maka warna merah yang akan ditampilkan
+Pada contoh di atas,tag h1 berusaha untuk diubah warnanya dengan menggunakan CSS dari file prioritas.css yang ingin mengganti warna menjadi biru.Kedua dengan menggunakan kode CSS yang ada diantara tag style dan /style dengan warna merah.Ketika ditampilkan di browser,maka warna merah yang akan ditampilkan.
