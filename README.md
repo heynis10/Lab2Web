@@ -54,8 +54,8 @@ Tampilan pada browser
 ![ScreenshotTugas](https://github.com/heynis10/Lab2Web/blob/master/ss11.png)
 
 # Jawaban Tugas
-1 Sudah dilakukan
-2 h1 {...} adalah **Elemen selector** sedangkan #intro h1 adalah **ID Selector** , Elemen Selector ini akan memilih elemen berdasarkan nama tag, sedangkan ID Selector r dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan.
+1. Sudah dilakukan
+2. h1 {...} adalah **Elemen selector** sedangkan #intro h1 adalah **ID Selector** , Elemen Selector ini akan memilih elemen berdasarkan nama tag, sedangkan ID Selector r dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan.
 3. Deklarasi CSS Internal yang akan ditampilkan, Karena ada dua sifat CSS yaitu internal dan eksternal.Jika internal yang dipilih, maka skrip itu dimasukkan secara langsung ke halaman website yang akan didesain. Kalau halaman web yang lain akan didesain dengan model yang sama, maka skrip CSS itu harus dimasukkan lagi ke dalam halaman web yang lain itu.
 ![ScreenshotTugas](https://github.com/heynis10/Lab2Web/blob/master/ss12.png)
 ![ScreenshotTugas](https://github.com/heynis10/Lab2Web/blob/master/ss13.png)
