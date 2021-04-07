@@ -66,9 +66,9 @@ Tampilan pada browser
 Contoh :
 
 	Ketikkan script berikut dan simpan dengan nama prioritas.css 
-	```
-	h1 {color: blue;}
-	```
+```
+h1 {color: blue;}
+```
 	Lalu buatlah file HTML nya dan simpan dengan nama cssprioritas.html
 ```CSS
 <!DOCTYPE HTML>
